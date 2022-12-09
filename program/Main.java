@@ -37,7 +37,7 @@ public class Main {
 		}
 		System.out.println("PAYMENTS: ");
 		for (Employee emp: list) {
-			System.out.println(emp.getName() + " - " + emp.payment());
+			System.out.println(emp.getName() + " - " + "$ "+ emp.payment());
 		}
 		sc.close();
 	}
