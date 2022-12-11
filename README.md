@@ -1,7 +1,7 @@
 # Project Outsourced Employee
 
 In this project was used concepts of lists, constructors, encapsulation, overlap, polymorphism, conditional structure and repetitive structure, loop for each.
-I'm using the version more recently of java 8
+I'm using the version more recently of java 18
 
 ## Let's start
 
